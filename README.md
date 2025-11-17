@@ -10,6 +10,7 @@ Permite:
 - Actualizar el precio de un producto.
 - Buscar productos por **ID** o por **nombre**.
 - Mostrar datos del producto seleccionado.
+- Usamos Busqueda Lineal
 
 El objetivo es practicar **POO**, **separación de interfaz e implementación**, y manejo básico de **GUI en Java** usando IntelliJ UI Designer.
 
